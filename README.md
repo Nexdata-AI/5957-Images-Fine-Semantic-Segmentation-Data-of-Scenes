@@ -3,7 +3,7 @@
 ## Description
 5,957 Images – Fine Semantic Segmentation Data of Scenes. The scene of this dataset is outdoor scenes. The data diversity includes multiple scenes, different time periods. For annotation, segmentation annotation was adopted for the sky region in the images. The data can be used for fine semantic segmentation and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1152?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1152?source=Github
 
 
 # Specifications
